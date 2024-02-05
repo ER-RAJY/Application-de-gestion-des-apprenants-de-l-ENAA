@@ -6,24 +6,24 @@ Commencez votre documentation sur les différents principe de la POO(L'encapsula
 Les classes dans votre application sont : Administrateur, Apprenant, Classe.
 ​
 
-++En tant que administrateur je peux :++
+++En tant que administrateur je peux :++<br/>
 
 ​
 
-#### Gérer les apprenants
+#### Gérer les apprenants<br/>
 1- Ajouter un nouvel apprenant avec les informations suivantes :Nom et prénom, Date de naissance, Adresse, Numéro de téléphone et numero de classe.
 2- Modifier les informations d'un apprenant existant.
 3- Supprimer un apprenant existant.
 4 - Consulter la liste des apprenants.
-5- Rechercher un apprenant par nom, prénom ou numéro d'identifiant.
+5- Rechercher un apprenant par nom, prénom ou numéro d'identifiant.<br/>
 ​
 
-#### Gérer les classes de l'école
-1- Ajouter une nouvelle classe (Numero de classe,Nom, effectif),
-2- Modifier une classe existante
-3- Supprimer une classe existante
-4- Afficher la liste des classes
-5- Filtrer les apprenants par classe.
+#### Gérer les classes de l'école<br/>
+1- Ajouter une nouvelle classe (Numero de classe,Nom, effectif) <br/>
+2- Modifier une classe existante <br/>
+3- Supprimer une classe existante<br/>
+4- Afficher la liste des classes<br/>
+5- Filtrer les apprenants par classe.<br/>
 
 NB:
 
