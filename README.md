@@ -11,11 +11,11 @@ Les classes dans votre application sont : Administrateur, Apprenant, Classe.
 ​
 
 #### Gérer les apprenants<br/>
-1- Ajouter un nouvel apprenant avec les informations suivantes :Nom et prénom, Date de naissance, Adresse, Numéro de téléphone et numero de classe.
-2- Modifier les informations d'un apprenant existant.
-3- Supprimer un apprenant existant.
-4 - Consulter la liste des apprenants.
-5- Rechercher un apprenant par nom, prénom ou numéro d'identifiant.<br/>
+1- Ajouter un nouvel apprenant avec les informations suivantes :Nom et prénom, Date de naissance, Adresse, Numéro de téléphone et numero de classe.<br/>
+2- Modifier les informations d'un apprenant existant.<br/>
+3- Supprimer un apprenant existant.<br/>
+4 - Consulter la liste des apprenants.<br/>
+5- Rechercher un apprenant par nom, prénom ou numéro d'identifiant.<br/><br/>
 ​
 
 #### Gérer les classes de l'école<br/>
@@ -25,7 +25,7 @@ Les classes dans votre application sont : Administrateur, Apprenant, Classe.
 4- Afficher la liste des classes<br/>
 5- Filtrer les apprenants par classe.<br/>
 
-NB:
+#### NB:
 
 Validation des Données : Les champs obligatoires doivent être validés.
 La date de naissance doit être valide.
