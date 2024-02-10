@@ -1,45 +1,31 @@
+public class Classes {
+    private int numeroClasse;
+    private String nomClasse;
+    private boolean enSession; // Pour indiquer si la classe est en session ou non
 
-    public class Classes {
-        private int n_classe;
-        private String nom_classe;
-        private boolean effectif;
+    // Constructeur, getters et setters
 
-        // Constructors
-        public Classes() {
-        }
-
-        public Classes(int n_classe, String nom_classe, boolean effectif) {
-            this.n_classe = n_classe;
-            this.nom_classe = nom_classe;
-            this.effectif = effectif;
-        }
-
-        // Getters and Setters
-        public int getN_classes() {
-            return n_classe;
-        }
-
-        public void setN_classes(int n_classe) {
-            this.n_classe = n_classe;
-        }
-
-        public String getNom_classes() {
-            return nom_classe;
-        }
-
-        public void setNom_classse(String nom_classe) {
-            this.nom_classe = nom_classe;
-        }
-
-        public boolean isEffectif() {
-            return effectif;
-        }
-
-        public void setEffectif(boolean effectif) {
-            this.effectif = effectif;
-        }
-
-
+    public int getNumeroClasse() {
+        return numeroClasse;
     }
 
+    public void setNumeroClasse(int numeroClasse) {
+        this.numeroClasse = numeroClasse;
+    }
 
+    public String getNomClasse() {
+        return nomClasse;
+    }
+
+    public void setNomClasse(String nomClasse) {
+        this.nomClasse = nomClasse;
+    }
+
+    public boolean isEnSession() {
+        return enSession;
+    }
+
+    public void setEnSession(boolean enSession) {
+        this.enSession = enSession;
+    }
+}
